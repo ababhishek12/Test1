@@ -1,0 +1,15 @@
+
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Test1 Collection NOC Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "bcryptjs": "^2.4.3"
+  }
+}
